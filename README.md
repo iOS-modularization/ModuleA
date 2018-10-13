@@ -1,2 +1,0 @@
-# ModuleA
-module A
